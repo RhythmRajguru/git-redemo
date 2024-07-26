@@ -1,0 +1,4 @@
+*.log
+index/src
+/dir/
+db.accdb.pptx
